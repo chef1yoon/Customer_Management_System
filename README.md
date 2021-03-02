@@ -1,4 +1,4 @@
-## Managemnet System
+## Management System
 
 본 프로젝트는 React를 이용하여 고객 관리 시스템(Customer Management System)을 제작하였습니다.
 
